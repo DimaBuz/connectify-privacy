@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Политика конфиденциальности — Innomove</title>
+</head>
+<body style="font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
+  <h1>Политика конфиденциальности</h1>
+  <p><strong>Компания:</strong> Innomove<br>
+  <strong>Сайт:</strong> <a href="http://www.innomove.ru" target="_blank">www.innomove.ru</a><br>
+  <strong>Контакт:</strong> dimabuz86@gmail.com<br>
+  <strong>Дата:</strong> 24 июня 2025</p>
+
+  <h2>1. Общие положения</h2>
+  <p>Настоящая Политика описывает, как компания Innomove использует и защищает данные, полученные при автоматизации публикаций в Pinterest.</p>
+
+  <h2>2. Какие данные мы собираем</h2>
+  <ul>
+    <li>Изображения, загружаемые пользователем</li>
+    <li>Названия досок и пинов</li>
+    <li>Служебные данные Pinterest API</li>
+  </ul>
+
+  <h2>3. Как мы используем данные</h2>
+  <p>Исключительно для:</p>
+  <ul>
+    <li>Автоматической публикации в Pinterest</li>
+    <li>Анализа успешности публикаций</li>
+    <li>Улучшения сервиса</li>
+  </ul>
+
+  <h2>4. Безопасность</h2>
+  <p>Все данные передаются по OAuth. Мы не храним изображения или метаданные.</p>
+
+  <h2>5. Ответственность</h2>
+  <p>Мы не отвечаем за действия Pinterest. Пользователь соблюдает их правила самостоятельно.</p>
+
+  <h2>6. Контакты</h2>
+  <p>По вопросам — <a href="mailto:dimabuz86@gmail.com">dimabuz86@gmail.com</a></p>
+</body>
+</html>
