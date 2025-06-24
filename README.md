@@ -1,2 +1,2 @@
-# connectify-privacy
+# innomove-privacy
 Политика конфиденциальности
